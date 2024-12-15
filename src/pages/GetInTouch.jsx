@@ -39,7 +39,7 @@ export default function GetInTouch() {
 
   return (
     <>
-      <NavBar language={language} />
+      {/* <NavBar language={language} /> */}
       {/* banner image */}
       <div className="container-fluid banner-img-bg-color">
         <div className="row position-relative">
