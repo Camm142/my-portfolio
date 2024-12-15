@@ -26,7 +26,7 @@ export default function AboutMe() {
 
   return (
     <>
-      {/* <NavBar language={language}/> */}
+      <NavBar language={language}/>
       <div className='container-fluid bg-color min-vh-100 d-flex flex-column justify-content-center'>
         <div className="container">
           <div className="row">
