@@ -6,7 +6,7 @@ import Project from './pages/Project'
 import Resume from './pages/Resume'
 const router =createBrowserRouter([
     {
-        path: '/',
+        path: '/my-portfolio/',
         element: <GetInTouch></GetInTouch>
     },
     {
