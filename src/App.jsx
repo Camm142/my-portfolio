@@ -25,6 +25,9 @@ const router =createBrowserRouter([
 
 export default function App(){
     return(
-        <AboutMe></AboutMe>
+        <>
+        <RouterProvider router={router}></RouterProvider>
+        <GetInTouch></GetInTouch>
+        </>
     )
 }
