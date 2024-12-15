@@ -1,0 +1,89 @@
+/* banner style  */
+
+.banner-img-bg-color {
+    background-color: #A75F37;
+}
+
+.special-style h1{
+    font-size: 88px;
+}
+
+.btn.btn-color{
+    background-color: #D9B99F;
+}
+
+.btn.custom-button {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 18px;
+}
+
+/* tabbar style  */
+.bg-color {
+    background-color: #D9B99F;
+}
+
+.fixed-height-container {
+    height: 550px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.circle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 10px 0;
+    overflow: hidden;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.circle-inner {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    top: 31%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    margin: 5px auto;
+    transition: all 0.3s ease;
+  }
+
+.circle:hover .circle-inner {
+    width: 20px;
+    height: 20px;
+}
+
+.vertical-line {
+    width: 1px;
+    height: 50px;
+    background-color: #000;
+    margin: 0 10px; /* Add space between the line and circles */
+}
+
+/* Style for clicked circle */
+.circle-clicked .circle-inner{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 31%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    margin: 5px auto;
+}

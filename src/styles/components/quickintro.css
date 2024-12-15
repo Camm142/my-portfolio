@@ -1,0 +1,52 @@
+/* quick intro 1 style  */
+.picture-bg-color{
+    background-color: #A75F37;
+    display: inline-block;
+    border-radius: 50%;
+    z-index: 0;
+}
+
+.contact-box {
+    padding: 10px 20px;
+    max-width: 80%;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+/* quick intro 2 style  */
+
+.language-box, .hobby-box {
+    background-color: #F2E7DD;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.chatbox {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translateX(-50%);
+    width: 180px;
+    background-color: #f9f1ff;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 14px;
+    z-index: 10;
+}
+
+
+.hobby-item:hover .chatbox {
+    display: block;
+}
+
+.english {
+    font-family: var(--title-style-font);
+}
+
+.vietnamese{
+    font-family: var(--vietnamese-style-font);
+}

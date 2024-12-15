@@ -1,0 +1,27 @@
+:root{
+    --handwriting-style-font: 'Meow Script', cursive;
+    --common-style-font: 'Kodchasan', cursive;
+    --title-style-font: 'Julius Sans One', cursive;
+    --vietnamese-style-font: 'Darker Grotesque', cursive;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.handwriting-style {
+    font-family: 'Meow Script', cursive;
+}
+
+.special-style {
+    font-family: 'monoton', cursive;
+}
+
+.common-style {
+    font-family: 'Kodchasan', cursive;
+}
+
+.title-style{
+    font-family: 'Julius Sans One', cursive;
+}

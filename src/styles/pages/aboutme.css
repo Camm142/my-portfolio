@@ -1,0 +1,54 @@
+.bg-color {
+    background-color: #D9B99F;
+}
+
+.dashed-line {
+    border: none;
+    height: 2px;
+  background: repeating-linear-gradient(
+    to right,
+    black,
+    black 10px,
+    transparent 10px,
+    transparent 20px
+  );
+}
+
+.vietnamese {
+  font-family: var(--vietnamese-style-font);
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+.english{
+  font-family: var(--title-style-font);
+}
+.square-year-container {
+  display: flex;
+
+}
+.square {
+  width: 30px;
+  height: 30px;
+  border: 2px solid #A75F37;
+  background-color: #A75F37;
+  transform: rotate(45deg);
+}
+
+.square-inner {
+  width: 21px;
+  height: 21px;
+  background-color: #A75F37;
+  border: 2px solid white;
+  border-radius: 2px;
+  margin: 3px;
+  transform: rotate(90deg);
+}
+
+.line {
+  width: 2px;
+  height: 100px;
+  background-color: black;
+  margin-left: 15px;
+  margin-top: 10px;
+}

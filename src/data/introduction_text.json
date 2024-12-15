@@ -1,0 +1,114 @@
+
+{
+    "description": {
+    "english": "I'm currently a student majoring in Computer Science with a specialization in Software Development at Swinburne University, Australia. I am a hard-working, sociable and responsible person, who is looking for a job, which offers me a chance to greet new people, enhance social skills (communication, problem-solving, time-management, etc) and also enhance my professional skills in coding.",
+    "vietnamese": "Tôi một sinh viên chuyên ngành Computer Science, chuyên về phát triển phần mềm của đại học Swinburne, Úc. Mục tiêu của tôi hiện nay là có thể tìm được một công việc giúp tôi có cơ hội gặp gỡ các chuyên gia trong lĩnh vực lập trình, giúp tôi phát triển các kĩ năng mềm và phát triển kĩ năng chuyên môn của tôi trong việc lập trình. Tôi là một người chăm chỉ và rất có trách nhiệm, khả năng tiếp thu kiến thức mới của tôi rất nhanh, vì vậy tôi rất hy vọng mình có cơ hội được học hỏi thêm những kiến thức mới, phát triển kĩ năng làm nhiều việc cùng lúc trong thực tế và gặp gỡ nhiều người."
+    },
+    "contact": {
+        "address": {
+            "eng_ver": "Hawthorn, VIC 3123",
+            "viet_ver": "Gamuda Gardens, Trần Phú, Hoàng Mai, Hà Nội",
+            "icon": "fas fa-map-marker-alt"
+        },
+        "email": {
+            "eng_ver": "vhp12122004@gmail.com",
+            "viet_ver": "vhp12122004@gmail.com",
+            "icon": "fas fa-envelope"
+        },
+        "phone_number": {
+            "eng_ver": "(+61) 449 096 797",
+            "viet_ver": "(+84) 912 011 033",
+            "icon": "fas fa-phone"
+        }
+    },
+    "language": {
+        "english": {
+            "first": {
+                "language": "Vietnamese",
+                "rate": "native"
+            },
+            "second": {
+                "language": "English",
+                "rate": "fluent"
+            }
+        },
+        "vietnamese": {
+            "first": {
+                "language": "Tiếng Việt",
+                "rate": "Tiếng mẹ đẻ"
+            },
+            "second": {
+                "language": "Tiếng Anh",
+                "rate": "Thông thạo"
+            }
+        }
+    },
+    "hobbies": {
+        "english": {
+            "first": {
+                "name": "Writing",
+                "description": "I love writing. Create my own story when I have spare time help me to increase my creativity and also release my stress.",
+                "image": "/images/write_icon.png"
+            },
+            "second": {
+                "name": "Playing Piano",
+                "description": "I love music and also learn to play piano when I was a children, and still continue practice up to now. Learning piano help me to increase my computer typing speed",
+                "image": "/images/piano_icon.png"
+            },
+            "third": {
+                "name": "Design 3D Model",
+                "description": "My dream is to be able to work in game industry. Beside from learning code and try developing a game project, I also spend some times digging in and learning about create a 3D model",
+                "image": "/images/3D_icon.png"
+            },
+            "fourth": {
+                "name": "Game",
+                "description": "As a matter of fact, my top favorite hobby is playing game, since it is my motivation to start learning about code.",
+                "image": "/images/game_icon.png"
+            }
+        },
+        "vietnamese": {
+            "first": {
+                "name": "Viết Lách",
+                "description": "Tôi rất yêu thích việc viết lách và sáng tạo nội dung. Khi có thời gian rảnh, tôi thường tự viết ra những câu chuyện do mình tự nghĩ ra để tăng tư duy sáng tạo, cũng như giải tỏa áp lực.",
+                "image": "/images/write_icon.png"
+            },
+            "second": {
+                "name": "Chơi Piano",
+                "description": "Tôi yêu âm nhạc và đã học chơi Piano từ khi còn nhỏ, đến bây giờ tôi vẫn duy trì việc luyện tập của mình. Bên cạnh giải tỏa áp lực, chơi đàn giúp tôi tăng tốc độ gõ máy tính",
+                "image": "/images/piano_icon.png"
+            },
+            "third": {
+                "name": "Thiết kế mô hình 3D",
+                "description": "Mục tiêu của tôi là được làm trong ngành công nghiệp game. Bên cạnh việc học các kiến thức về lập trình và phát triển game, tôi cũng dành thời gian tìm hiểu thêm về việc cách một môi trường hoặc một nhân vật trong game được tạo ra thế nào.",
+                "image": "/images/3D_icon.png"
+            },
+            "fourth": {
+                "name": "Game",
+                "description": "Động lực để đưa tôi đến với lập trình chính là nhờ vào game, vậy nên đương nhiên, chơi game cũng là một sở thích của tôi.",
+                "image": "/images/game_icon.png"
+            }
+        }
+    },
+    "social_account": {
+        "first": {
+            "icon": "fa-brands fa-facebook",
+            "link": "https://www.facebook.com/profile.php?id=100009728537106",
+            "color": "#A75F37"
+        },
+        "second": {
+            "icon": "fa-brands fa-github",
+            "link": "https://github.com/Camm142",
+            "color": "#F2D6CE"
+        },
+        "third": {
+            "icon": "fa-brands fa-linkedin",
+            "link": "https://www.linkedin.com/in/phuong-ha-181aaa27a/",
+            "color": "#CA8E82"
+        },
+        "fourth": {
+            "icon": "fa-brands fa-instagram",
+            "link": "https://www.instagram.com/chimzeeeeeee/",
+            "color": "#F2E7DD"
+        }
+    }
+}

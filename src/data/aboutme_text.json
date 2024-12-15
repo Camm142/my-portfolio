@@ -1,0 +1,85 @@
+{
+    "description": {
+        "title": "description",
+        "content": {
+            "english" : "I love coding and can work proficiently with multiple programming languages. Personally, I am fluent in using HTML, CSS, and Bootstrap as a website style framework, as well as other web programming languages such as JavaScript and PHP. I am also experienced in using various web frameworks like VueJS and ReactJS to build full-stack websites. For mobile applications, I am proficient in using Flutter to develop applications for both operating systems: iOS and Android.\n\nApart from web programming languages, I am also skilled in using C#, C/C++, Ruby, Python, and Java.\n\nSpecifically, it would be an honor for me to work in game development, as I love playing games, which were also the motivation for me to start my studies. Besides games, I would also love the opportunity to work in web and mobile application development.",
+            "vietnamese": "Tôi yêu thích việc lập trình rất nhiều và có thể thành thạo khá nhiều ngôn ngữ lập trình khác nhau. Tôi thông thạo sử dụng HTML, CSS và cả framework dùng cho việc thiết kế web là Bootstrap cũng như các ngôn ngữ lập trình web như JavaScript, PHP. Tôi cũng biết cách sử dụng các framework như VueJS và ReactJS để lập trình một website hoàn hảo có tích hợp cả hệ thống Backend. Tôi cũng biết cách sử dụng Flutter để lập trình một phần mềm trên điện thoại cho cả hai hệ điều hành IOS và Android.\n\nBên cạnh các ngôn ngữ lập trình web, tôi cũng thông thạo sử dụng các ngôn ngữ như C#, C/C++, Ruby, Python, Java.\n\nTôi đặc biệt thích và hứng thú được làm việc trong lĩnh vực phát triển game, bởi vì tôi rất thích chơi game và đây cũng là động lực bắt đầu học công nghệ của tôi. Tuy nhiên, bên cạnh game, tôi cũng rất hứng thú và yêu thích nếu có cơ hội được làm việc trong việc phát triển các website, hoặc các ứng dụng trên điện thoại hiện nay."
+        }
+    },
+    "education" : {
+        "title" : "education history",
+        "content":{
+            "english": {
+                "first" : {
+                    "year" : "2019 - 2022",
+                    "school": "Nguyen Hue Gifted High School, Hanoi, Vietnam",
+                    "subtitle" : "Majoring in History"
+                },
+                "second" : {
+                    "year": "2022 - 2023",
+                    "school" : "Swinburne University of Technology in Vietnam",
+                    "subtitle" : "Bachelor of Computer Science, Software Dev"
+                },
+                "third" : {
+                    "year": "2023 - 2026",
+                    "school" : "Swinburne University of Technology in Australia",
+                    "subtitle" : "Bachelor of Computer Science, Software Dev"
+                }
+            },
+            "vietnamese": {
+                "first" : {
+                    "year" : "2019 - 2022",
+                    "school": "THPT Chuyên Nguyễn Huệ",
+                    "subtitle" : "Chuyên Lịch Sử khóa 72"
+                },
+                "second" : {
+                    "year": "2022 - 2023",
+                    "school" : "Trường đại học công nghệ Swinburne Việt Nam",
+                    "subtitle" : "Cử nhân ngành Computer Science, Software Development"
+                },
+                "third" : {
+                    "year": "2023 - 2026",
+                    "school" : "Trường đại học công nghệ Swinburne Úc",
+                    "subtitle" : "Cử nhân ngành Computer Science, Software Development"
+                }
+            }
+        }
+    },
+    "pros_cons": {
+        "title": "my strengths and weaknesses",
+        "content": {
+            "english": {
+                "advantage": ["Working under pressure", "Hard working", "Good time management", "Fluent in multiple languages"],
+                "disadvantage": ["English is my second language, sometimes it hard for me to fully convey the message to other people. But I learn very fast, so I can enhance my communication skill really quick.", "I barely have an opportuinity to work in a real project, so I might not be know the whole deployment process."]
+            },
+            "vietnamese": {
+                "advantage": ["Có thể làm việc dưới áp lực, chạy deadline rất tốt", "Chăm chỉ", "Biết cách quản lí thời gian", "Thông thạo nhiều ngôn ngữ lập trình"],
+                "disadvantage": ["Kĩ năng giao tiếp không quá tốt, nhưng tôi có thể cải thiện nó bằng cách cố gắng thực hiện việc giao tiếp nhiều nhất có thể", "Tôi rất ít khi có cơ hội được làm việc với một dự án thực tế, vậy nên quy trình để triển khai một dự án tôi chưa nắm rõ lắm"]
+            }
+        }
+    },
+    "experience": {
+        "title": "experience",
+        "content": {
+            "english": {
+                "first" : {
+                    "year" : "2023",
+                    "job": "Intern of TPB.EB.Mobile Team in Tien Phong Bank in December, 2023.",
+                    "desc": "In December, 2023, I worked as an intern at Tien Phong Bank, a famous Vietnamese bank company. I started my internship at the beginning of December and ended at the end of January. Through 2 months working, I have completed a timekeeping app which is use for bankers to take attendance everyday"
+                },
+                "second" : {
+                    "year" : "2023",
+                    "job": "Intern of TPB.EB.Mobile Team in Tien Phong Bank in December, 2023.",
+                    "desc": "In December, 2023, I worked as an intern at Tien Phong Bank, a famous Vietnamese bank company. I started my internship at the beginning of December and ended at the end of January. Through 2 months working, I have completed a timekeeping app which is use for bankers to take attendance everyday"
+                }
+            },
+            "vietnamese": {
+                "first": {
+                    "year": "2023",
+                    "job": "Thực tập tại phòng phát triển phần mềm trực tuyến tại ngân hàng Tiên Phong vào tháng 12, 2023.",
+                    "desc": "Vào tháng 12, năm 2023, tôi thực tập tại ngân hàng Tiên Phong, thuộc phòng phát triển phần mềm trực tuyến. Tôi bắt đầu kì thực tập vào đầu tháng 12 và kết thúc vào cuối tháng 1. Qua hai tháng thực tập, tôi đã hoàn thành phát triển một app chấm công được sử dụng để các nhân viên ngân hàng chấm công hàng ngày."
+                }
+            }
+        }
+    }
+}
