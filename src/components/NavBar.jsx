@@ -48,7 +48,7 @@ export default function NavBar({language}) {
               <li className="nav-item">
                 <NavLink
                   className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
-                  to="/my-portfolio"
+                  to="/"
                 >
                   Get in Touch!
                 </NavLink>
