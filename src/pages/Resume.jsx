@@ -4,7 +4,9 @@ import NavBar from '../components/NavBar'
 export default function Resume() {
   return (
     <>
-    <NavBar />
+     <div className="container-fluid bg-white p-5">
+
+     </div>
     </>
   )
 }
