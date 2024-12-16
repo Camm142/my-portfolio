@@ -48,44 +48,44 @@
             "first": {
                 "name": "Writing",
                 "description": "I love writing. Create my own story when I have spare time help me to increase my creativity and also release my stress.",
-                "image": "../../public/images/write_icon.png"
+                "image": "/my-portfolio/images/write_icon.png"
             },
             "second": {
                 "name": "Playing Piano",
                 "description": "I love music and also learn to play piano when I was a children, and still continue practice up to now. Learning piano help me to increase my computer typing speed",
-                "image": "/images/piano_icon.png"
+                "image": "/my-portfolio/images/piano_icon.png"
             },
             "third": {
                 "name": "Design 3D Model",
                 "description": "My dream is to be able to work in game industry. Beside from learning code and try developing a game project, I also spend some times digging in and learning about create a 3D model",
-                "image": "/images/3D_icon.png"
+                "image": "/my-portfolio/images/3D_icon.png"
             },
             "fourth": {
                 "name": "Game",
                 "description": "As a matter of fact, my top favorite hobby is playing game, since it is my motivation to start learning about code.",
-                "image": "/images/game_icon.png"
+                "image": "/my-portfolio/images/game_icon.png"
             }
         },
         "vietnamese": {
             "first": {
                 "name": "Viết Lách",
                 "description": "Tôi rất yêu thích việc viết lách và sáng tạo nội dung. Khi có thời gian rảnh, tôi thường tự viết ra những câu chuyện do mình tự nghĩ ra để tăng tư duy sáng tạo, cũng như giải tỏa áp lực.",
-                "image": "/images/write_icon.png"
+                "image": "/my-portfolio/images/write_icon.png"
             },
             "second": {
                 "name": "Chơi Piano",
                 "description": "Tôi yêu âm nhạc và đã học chơi Piano từ khi còn nhỏ, đến bây giờ tôi vẫn duy trì việc luyện tập của mình. Bên cạnh giải tỏa áp lực, chơi đàn giúp tôi tăng tốc độ gõ máy tính",
-                "image": "/images/piano_icon.png"
+                "image": "/my-portfolio/images/piano_icon.png"
             },
             "third": {
                 "name": "Thiết kế mô hình 3D",
                 "description": "Mục tiêu của tôi là được làm trong ngành công nghiệp game. Bên cạnh việc học các kiến thức về lập trình và phát triển game, tôi cũng dành thời gian tìm hiểu thêm về việc cách một môi trường hoặc một nhân vật trong game được tạo ra thế nào.",
-                "image": "/images/3D_icon.png"
+                "image": "/my-portfolio/images/3D_icon.png"
             },
             "fourth": {
                 "name": "Game",
                 "description": "Động lực để đưa tôi đến với lập trình chính là nhờ vào game, vậy nên đương nhiên, chơi game cũng là một sở thích của tôi.",
-                "image": "/images/game_icon.png"
+                "image": "/my-portfolio/images/game_icon.png"
             }
         }
     },
