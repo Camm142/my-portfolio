@@ -48,7 +48,7 @@
             "first": {
                 "name": "Writing",
                 "description": "I love writing. Create my own story when I have spare time help me to increase my creativity and also release my stress.",
-                "image": "/images/write_icon.png"
+                "image": "../../public/images/write_icon.png"
             },
             "second": {
                 "name": "Playing Piano",
