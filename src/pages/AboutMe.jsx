@@ -1,11 +1,12 @@
-import React, { useState } from "react";
+import React, { useContext, useState } from "react";
 import NavBar from "../components/NavBar";
 import SwitchButton from "../components/SwitchButton";
 import data from "../data/aboutme_text.json";
 import "../styles/pages/aboutme.css";
+import { useLanguage } from "../service/LanguageContext";
 
 export default function AboutMe() {
-  const [language, setLanguage] = useState("english"); // Default language is English
+  const {language, toggleLanguage} = useLanguage();
   const description = data.description.content[language];
   const educationData = Object.entries(data.education.content[language]);
   const prosCons = data.pros_cons.content[language];
@@ -18,10 +19,6 @@ export default function AboutMe() {
     } else {
       setClickedButtons([...clickedButtons, key]);
     }
-  };
-
-  const handleLanguageToggle = (newLanguage) => {
-    setLanguage(newLanguage)
   };
 
   return (
@@ -199,7 +196,7 @@ export default function AboutMe() {
               {/* Language Switch */}
               <SwitchButton
               language={language}
-              handleLanguageToggle={handleLanguageToggle}
+              handleLanguageToggle={toggleLanguage}
               ></SwitchButton>
             </div>
           </div>

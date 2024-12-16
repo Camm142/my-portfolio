@@ -7,9 +7,10 @@ import '../styles/pages/getintouch.css';
 import QuickIntro from '../components/QuickIntro';
 import QuickIntro2 from '../components/QuickIntro2';
 import QuickIntro3 from '../components/QuickIntro3';
+import { useLanguage } from '../service/LanguageContext';
 
 export default function GetInTouch() {
-  const [language, setLanguage] = useState("english"); // Default language is English
+  const {language, toggleLanguage} = useLanguage(); //use the context
   const [isCircleClicked, setIsCircleClicked] = useState(false);
   const [clickedCircle, setClickedCircle] = useState(1);
   const mainContentRef = useRef(null);
@@ -117,7 +118,7 @@ export default function GetInTouch() {
           <div className="col-10">
           <SwitchButton
             language={language}
-            handleLanguageToggle={handleLanguageToggle}
+            handleLanguageToggle={toggleLanguage}
             >
           </SwitchButton>
           </div>

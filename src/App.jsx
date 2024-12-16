@@ -5,6 +5,7 @@ import GetInTouch from './pages/GetInTouch';
 import AboutMe from './pages/AboutMe';
 import Project from './pages/Project';
 import Resume from './pages/Resume';
+import { LanguageProvider } from './service/LanguageContext';
 
 const router = createBrowserRouter(
   [
@@ -26,10 +27,14 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/my-portfolio', // Ensure the basename matches your GitHub Pages URL
+   basename: '/my-portfolio', //Ensure the basename matches your GitHub Pages URL
   }
 );
 
 export default function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <LanguageProvider>
+      <RouterProvider router={router} />
+    </LanguageProvider>
+);
 }
